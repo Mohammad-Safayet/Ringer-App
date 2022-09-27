@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ringer App</string>
+    <string name="str_btn_add_profile">On click open up a page to add the profile</string>
+    <string name="str_input_profile_name">Profile Name</string>
+    <string name="str_input_ringer_mode">Choose a ringer mode</string>
+    <string name="str_input_start_time">Start Time</string>
+    <string name="str_input_end_time">End Time</string>
+    <string name="str_input_location">Location</string>
+    <string name="str_btn_confirm">Done</string>
+    <string name="mapbox_access_token">sk.eyJ1Ijoic2hhbXN1bHRhem91ciIsImEiOiJjbDM1OGdsMTcwYTAyM2VydXVpeHF5amszIn0.Vk0g0FSMoteTwlOtRhayyw</string>
+    <string name="str_input_radius">Radius</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_default_text_landing_pg">Press ( + ) button to create a new Profile</string>
+</resources>

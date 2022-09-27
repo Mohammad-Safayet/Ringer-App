@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/learner/CollegePaidProject/Ringer_App/app/src/main/res/drawable/ic_user_location.xml" value="0.1445" />
+        <entry key="..\:/Users/learner/CollegePaidProject/Ringer_App/app/src/main/res/layout/activity_main.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/learner/CollegePaidProject/Ringer_App/app/src/main/res/layout/fragment_landing_page.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/learner/CollegePaidProject/Ringer_App/app/src/main/res/layout/fragment_loading_page.xml" value="0.16875" />
+        <entry key="..\:/Users/learner/CollegePaidProject/Ringer_App/app/src/main/res/layout/fragment_map_page.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/learner/CollegePaidProject/Ringer_App/app/src/main/res/layout/fragment_profile_page.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/learner/CollegePaidProject/Ringer_App/app/src/main/res/layout/profile_card.xml" value="0.33" />
+        <entry key="..\:/Users/learner/CollegePaidProject/Ringer_App/app/src/main/res/layout/ringer_mode_dropdown_item.xml" value="0.15648148148148147" />
+        <entry key="..\:/Users/learner/Projects/Android_kotlin/Ringer_App/app/src/main/res/layout/fragment_landing_page.xml" value="0.3375" />
+        <entry key="..\:/Users/learner/Projects/Android_kotlin/Ringer_App/app/src/main/res/layout/fragment_loading_page.xml" value="0.16875" />
+        <entry key="..\:/Users/learner/Projects/Android_kotlin/Ringer_App/app/src/main/res/layout/fragment_profile_page.xml" value="0.16875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/landingPage">
+
+    <fragment
+        android:id="@+id/landingPage"
+        android:name="com.example.ringer_app.ui.fragment.LandingPage"
+        android:label="fragment_landing_page"
+        tools:layout="@layout/fragment_landing_page" >
+        <action
+            android:id="@+id/navigate_from_landing_page_to_profile_page"
+            app:destination="@id/profilePage" />
+    </fragment>
+    <fragment
+        android:id="@+id/profilePage"
+        android:name="com.example.ringer_app.ui.fragment.ProfilePage"
+        android:label="fragment_profile_page"
+        tools:layout="@layout/fragment_profile_page" >
+        <action
+            android:id="@+id/navigate_from_profile_page_to_landing_page"
+            app:destination="@id/landingPage" />
+        <action
+            android:id="@+id/navigate_from_profile_page_to_map_page"
+            app:destination="@id/mapPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapPage"
+        android:name="com.example.ringer_app.ui.fragment.MapPage"
+        android:label="fragment_map_page"
+        tools:layout="@layout/fragment_map_page" >
+        <action
+            android:id="@+id/navigate_from_map_page_to_profile_page"
+            app:destination="@id/profilePage" />
+    </fragment>
+</navigation>
