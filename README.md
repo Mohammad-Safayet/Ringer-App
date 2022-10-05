@@ -43,6 +43,6 @@ git clone git@github.com:Mohammad-Safayet/Ringer-App.git
 
 
 
-[<img title="" src="https://github.com/Mohammad-Safayet/Ringer_App/master/bolb/screenshots/landing_page_empty.jpg" alt="Landing Page Empty" width="163">][<img src="file:///C:/Users/learner/Projects/Android_kotlin/Ringer_App/screenshots/profile_input_page.jpg" title="" alt="Profile input page" width="163">][<img title="" src="file:///C:/Users/learner/Projects/Android_kotlin/Ringer_App/screenshots/clock_dialog.jpg" alt="" width="162">]
+[<img title="" src="https://github.com/Mohammad-Safayet/Ringer-App/blob/main/screenshots/landing_page_empty.jpg" alt="Landing Page Empty" width="163">][<img src="file:///C:/Users/learner/Projects/Android_kotlin/Ringer_App/screenshots/profile_input_page.jpg" title="" alt="Profile input page" width="163">][<img title="" src="file:///C:/Users/learner/Projects/Android_kotlin/Ringer_App/screenshots/clock_dialog.jpg" alt="" width="162">]
 
 [<img title="" src="file:///C:/Users/learner/Projects/Android_kotlin/Ringer_App/screenshots/map_page.jpg" alt="" width="163">][<img title="" src="file:///C:/Users/learner/Projects/Android_kotlin/Ringer_App/screenshots/profile_input_page_filled.jpg" alt="" width="163">][<img title="" src="file:///C:/Users/learner/Projects/Android_kotlin/Ringer_App/screenshots/landing_page_with_profile.jpg" alt="" width="163">]
