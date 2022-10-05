@@ -1,9 +1,5 @@
 # Ringer App
 
----
-
-
-
 This is an android application that changes the ringer mode based on the location of the user. It is not server dependent application. 
 
 #### Features
@@ -17,11 +13,7 @@ This is an android application that changes the ringer mode based on the locatio
 
 ---
 
-
-
 In order to run the project you need to have to have [Mapbox account](https://www.mapbox.com/). **[How to get Mapbox API token.](https://docs.mapbox.com/help/tutorials/get-started-tokens-api/)** 
-
-
 
 1. Clone this repository and import into **Android Studio**
 
